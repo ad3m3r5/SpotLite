@@ -27,6 +27,9 @@ const UserLibraryWrapper = styled.div`
     box-sizing: border-box;
     overflow-y: auto;
     overflow-x: hidden;
+	
+	scrollbar-width: thin;
+	scrollbar-color: rgb(29, 185, 84) black;
 
     &::-webkit-scrollbar {
         height: 1px;
