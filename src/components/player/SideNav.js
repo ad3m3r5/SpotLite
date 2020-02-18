@@ -12,6 +12,9 @@ const SideNavWrapper = styled.div`
     box-sizing: border-box;
     overflow-y: auto;
 
+    scrollbar-width: thin;
+    scrollbar-color: rgb(29, 185, 84) black;
+
     &::-webkit-scrollbar {
         height: 1px;
         width: 5px;

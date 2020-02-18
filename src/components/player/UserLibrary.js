@@ -23,7 +23,7 @@ const UserLibraryWrapper = styled.div`
     height: 250px;
     width: 415px;
     background-color: #282828;
-    padding: 10px 10px 11px 10px;
+    padding: 10px 8px;
     box-sizing: border-box;
     overflow-y: auto;
     overflow-x: hidden;
