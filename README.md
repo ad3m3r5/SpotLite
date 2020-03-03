@@ -57,4 +57,5 @@ User Library - Block View (Albums/Artists)
 ![User Library - Block View](https://user-images.githubusercontent.com/11009228/74412364-40621d00-4e0b-11ea-9458-885c796ec2c1.png)
 
 Spotify OAuth Login
+
 ![Spotify OAuth Login](https://user-images.githubusercontent.com/11009228/74412384-4e17a280-4e0b-11ea-84ec-86f9450f6eb5.png)
